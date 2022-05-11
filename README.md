@@ -1,2 +1,2 @@
-# lab_apps
-Random lab apps
+# Lab Apps
+This repository collects random apps built for the lab.
